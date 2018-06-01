@@ -1,0 +1,13 @@
+certifi==2018.4.16
+chardet==3.0.4
+corenlp-protobuf==3.8.0
+idna==2.6
+msgpack==0.5.6
+nltk==3.2.5
+numpy==1.14.3
+protobuf==3.5.2.post1
+requests==2.18.4
+scipy==1.1.0
+six==1.11.0
+stanford-corenlp==3.8.0
+urllib3==1.22
