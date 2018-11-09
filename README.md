@@ -1,6 +1,6 @@
 # UGSD: User Generated Sentiment Dictionaries from Online Customer Reviews
 ## 1. Introduction
-The UGSD toolkit is a representation learning framework designed to generate domain-specific sentiment dictionaries from online customer reviews ([UGSD: User Generated Sentiment Dictionaries from Online Customer Reviews]()). For example, given reviews on TripAdvisor, our framework attempts to generate sentiment lexicons of different ratings from 5-star to 1-star, which contain words conveying positive or negative polarities on attractions or tours respectively.
+The UGSD toolkit is a representation learning framework designed to generate domain-specific sentiment dictionaries from online customer reviews ([UGSD: User Generated Sentiment Dictionaries from Online Customer Reviews]()) published in AAAI 2019. For example, given reviews on TripAdvisor, our framework attempts to generate sentiment lexicons of different ratings from 5-star to 1-star, which contain words conveying positive or negative polarities on attractions or tours respectively.
 
 In specific, the UGSD toolkit can generate sentiment dictionaries of different domains given the reviews and the associated ratings in a specific domain. Especially, the lexicons from the UGSD toolkit include not only sentiment words but also representations of them, which can be used in other advanced applications such as sentiment analysis or dictionary expansion.
 
@@ -220,18 +220,12 @@ $ python ConstructLexicon.py [--src_folder <string>] [--min_star <int>] [--max_s
 @inproceedings{,
     author = {Wang, Chun-Hsiang and Fan, Kang-Chun and Wang, Chuan-Ju and Tsai, Ming-Feng},
     title = {UGSD: User Generated Sentiment Dictionaries from Online Customer Reviews},
-    booktitle = {},
-    series = {},
-    year = {2018},
-    isbn = {},
-    location = {},
+    booktitle = {Thirty-Third AAAI Conference on Artificial Intelligence},
+    year = {2019},
+    location = {Hawaii, USA},
     pages = {},
-    numpages = {10},
+    numpages = {8},
     url = {http://doi.acm.org/1},
-    doi = {},
-    acmid = {},
-    publisher = {ACM},
-    address = {New York, NY, USA},
     keywords = {sentiment analysis, dictionary construction, user-generated content, representation learning, opinion mining},
 } 
 ```
