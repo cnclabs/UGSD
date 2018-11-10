@@ -10,7 +10,19 @@ In specific, the UGSD toolkit can generate sentiment dictionaries of different d
 - Stanford NER software
 - proNet
 
-### 1.2. Getting Started
+### 1.2. Datasets
+We provide two datasets, TripAdvisor and Yelp, which are used in our paper.
+
+```
+.
+|-- datasets/
+    |-- tripadvisor/
+    |-- yelp_round9/
+```
+
+The TripAdvisor dataset was collected from [TripAdvisor](https://www.tripadvisor.com), where the top 25 cities in 2016 were selected, and the reviews of the top 20 attractions or tours of each city were included. The Yelp dataset was the ninth round of [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) and you can see the offical Yelp website for more information.
+
+### 1.3. Getting Started
 #### Download:
 ```
 $ git clone https://github.com/cnclabs/UGSD
