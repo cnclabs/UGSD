@@ -1,0 +1,490 @@
+{
+    "category": "Kathmandu", 
+    "entity": "Basantapur-Tower", 
+    "avg_rating_stars": 4.463157894736842, 
+    "review_count": 95, 
+    "rating_stats": {
+        "poor": 2, 
+        "average": 6, 
+        "terrible": 0, 
+        "very_good": 33, 
+        "excellent": 54
+    }, 
+    "reviews": [
+        {
+            "index": 1, 
+            "rating": "4", 
+            "review": "Unique Temple of Nepal. Basantapur Tower is probably one of the best temples and architectures of Nepal. When you visit this place you will see and experience the Nepali culture not only through the buildings and infrastructures but also the people behind the magnificent temples. They often celebrate their festivals in this place and there's a lot of people walking around. If you truly want to get a taste of their local culture, you must visit Basantapur."
+        }, 
+        {
+            "index": 2, 
+            "rating": "5", 
+            "review": "Durbar Square. This place is great to see especially how it is after the eq last year. Great structure, lots of history. You can hire a guide if you prefer more explanations of the architetural work and meaning behind it. Love it!"
+        }, 
+        {
+            "index": 3, 
+            "rating": "5", 
+            "review": "Probably the must see temple. If you only have time for one temple/palace, this is the one. They are all similar but you can actually get a feel for going back in time and what life was like in a Durbar."
+        }, 
+        {
+            "index": 4, 
+            "rating": "4", 
+            "review": "old city feel. despite damages suffered during the earthquake, most of the structure is still in tact. the square i quite beautiful and much more quiet than the square in kathmandu. great place to take a stroll, stop for a coffee, and do some shopping."
+        }, 
+        {
+            "index": 5, 
+            "rating": "4", 
+            "review": "Amazing place with historical spirit.... Just the mere visiting this place will impress you with an unforgettable experience. Handmade Nepalese carvers excels even the smallest details and combines motifs from the life of humans, animals and religious figures. Visit this place I recommend to everyone who comes to Kathmandu."
+        }, 
+        {
+            "index": 6, 
+            "rating": "5", 
+            "review": "nice and old. basantapur is one of the oldest tawn in kathmandu their is to menny old and historical tempal an old carvin nearly more then 500 year old"
+        }, 
+        {
+            "index": 7, 
+            "rating": "4", 
+            "review": "It must have been magnificent before the earthquake . What remains after the earthquake still very impressive but 3 of the 8 floors have collapsed so it is difficult to imagine how it was before. As the whole of Durban square in Katmandu it keeps a lot of charm but I am curious when they will eventually restore it"
+        }, 
+        {
+            "index": 8, 
+            "rating": "5", 
+            "review": "Heritage with History!. Historical place after long years of nature disaster. Still seems young and the architecture is breath taking. Lot's of story on the wall and every story reminds you the history of the heritage. Must visit and photo place for all. need to pay entry charge and you can go through taxi from KTM"
+        }, 
+        {
+            "index": 9, 
+            "rating": "5", 
+            "review": "Evening junction. A historical place for tourists looking for some peaceful and culturally significant houses. A little hampered by the recent quakes but still a nice place to hang out at the evening."
+        }, 
+        {
+            "index": 10, 
+            "rating": "5", 
+            "review": "Unbelievable Architecture. I just wish if those kings and princes had spent that much of money on human development and not on the rocks and trees.... aahhh!!"
+        }, 
+        {
+            "index": 11, 
+            "rating": "4", 
+            "review": "Yet to recover. Devastated by the 2015 earthquake. It is yet to recover from the earth quake. Other attactions of the durbar square are intact."
+        }, 
+        {
+            "index": 12, 
+            "rating": "5", 
+            "review": "Durbar Square May, 2016. amazing world heritage site devastated by the 2015 earthquake. see it while you can and support the restoration."
+        }, 
+        {
+            "index": 13, 
+            "rating": "3", 
+            "review": "So much damage.. The damage detracts from the experience. Unfortunately millions are needed to rebuild the damage in Durbar Square."
+        }, 
+        {
+            "index": 14, 
+            "rating": "5", 
+            "review": "Nice Place to Visit but Damaged Due to Earthquake. There are few Beautiful historic architecture as, although damaged since the 2015 earthquake.However we can see previous pictures and Certain exquisite wood carvings can now be seen at ground level. Many of the monuments are badly damaged. Recommend getting a guide to get the most out of the experience."
+        }, 
+        {
+            "index": 15, 
+            "rating": "3", 
+            "review": "Historic Center Badly Damaged. Sad to see this section of town in such a state of disrepair. Not sure I recommend spending much time there. Clearly, the Nepalese are very talented woodworkers and the buildings are very unique. Let's see if they can get the place put back together again."
+        }, 
+        {
+            "index": 16, 
+            "rating": "3", 
+            "review": "Not open at present. Though lovely to look at still, the top layers were lost in the earthquake. Certain exquisite wood carvings can now be seen at ground level."
+        }, 
+        {
+            "index": 17, 
+            "rating": "4", 
+            "review": "Damaged But Definitely worth the Visit. Quite damaged, but enough remains to see the design ability and craftsmanship of the Nepalese culture back in time. How much can be saved only time will tell, so anyone thinking of going, make sure you go sooner than later. The Architectural proportion and detail is both unique and creative."
+        }, 
+        {
+            "index": 18, 
+            "rating": "5", 
+            "review": "Nice but damaged. Durbar Square in its entirety is amazing. Be aware though that mush was damaged in the 2015 quake. It will be repaired but for now the place is not at its best. Still worth seeing."
+        }, 
+        {
+            "index": 19, 
+            "rating": "5", 
+            "review": "Beautiful Architecture. This place is humbling to see and the architecture will be very hard to replicate. It's unfortunate of what happened here. I'm glad to have had a chance to see this place before the destruction of some of the structures."
+        }, 
+        {
+            "index": 20, 
+            "rating": "4", 
+            "review": "Interesting but badly damaged since earthquake. Beautiful historic architecture, although sadly since the 2015 earthquake many of the monuments are badly damaged. Recommend getting a guide to get the most out of the experience."
+        }, 
+        {
+            "index": 21, 
+            "rating": "4", 
+            "review": "Wont miss it when visiting the square. If you are visiting Durbar square, you won't miss it, that and all the marks left by the earthquake everywhere in the area. It's been one year and still more places than not are yet to go through reconstruction."
+        }, 
+        {
+            "index": 22, 
+            "rating": "5", 
+            "review": "A heavy loss of man-made civilization asset.............. Disaster you are to blame......Destruction of what man can made. Our destiny our civilization and our culture."
+        }, 
+        {
+            "index": 23, 
+            "rating": "5", 
+            "review": "its a traditional art's heritage. i love this place so much because its really a beautiful example for arts of wood and metal. we can found excellent design's temple with marvelous door and window."
+        }, 
+        {
+            "index": 24, 
+            "rating": "3", 
+            "review": "Part of Durbar Square.. This you will see as part of your entry to the Square. Don't expect it to look as good as it did before the earthquake."
+        }, 
+        {
+            "index": 25, 
+            "rating": "5", 
+            "review": "The place itself is amazing and seeing beautiful courtyard of the former old palace... Most of the time spend during while visit in Kathmandu Durbar Square. Never miss the place and once is not enough..."
+        }, 
+        {
+            "index": 26, 
+            "rating": "4", 
+            "review": "Unique architecture, interesting site. If you visit the square, you'll notice this unique tower. Closed to the public, it's still photogenic on the outside. Get up close and study the woodwork. Enjoy, then move on."
+        }, 
+        {
+            "index": 27, 
+            "rating": "5", 
+            "review": "Historical beauty. One of the finest place to be if you are looking forward to know more about Nepal's history. I recommend to visit the museum as well. It always a proud feeling when i visit that place. Awesome."
+        }, 
+        {
+            "index": 28, 
+            "rating": "5", 
+            "review": "A Standing Witness to See If anyone is Hungry in the City.... A Standing Witness to See If anyone is Hungry in the City Means, in the past, King of Kathmandu used to see the SMOKE coming out of the Kitchen if all of his citizens have cooked their meal. Really Wonderful. But a Pain is there after the Devastating Earthquake."
+        }, 
+        {
+            "index": 29, 
+            "rating": "2", 
+            "review": "Still Building. Foreigners have to pay NPR1000. But there are only ruins there. The place is so congested and i did not enjoy anything there. This is because of the restructuring."
+        }, 
+        {
+            "index": 30, 
+            "rating": "5", 
+            "review": "Great walk around the old square to soak up the atmosphere. The ambiance of the city and surrounding area is really soaked up by a walk in the square. Good time to visit is early afternoon and sit in the sun and watch the world go by you. Avoid in late evenings and select you restaurant carefully! Particularly before going to the mountains on a trek or expedition."
+        }, 
+        {
+            "index": 31, 
+            "rating": "4", 
+            "review": "Sleeping Maruti idol only this place. On way to Aurangbad from Ajanta caves, one can drop this place to visit sleeping maruti idol. People claims that this is the only place you found idol of sleeping Maruti.\nTemple is renovated now and can have access to see this idol.\nOne must see once."
+        }, 
+        {
+            "index": 32, 
+            "rating": "5", 
+            "review": "Beautiful ARCHITECTURAL And Traditional.. Durbar Square IS a Must Visit Place In Kathmandu, To kNow about The OLd style Building of Nepal And To ENjoy Shopping As Well."
+        }, 
+        {
+            "index": 33, 
+            "rating": "3", 
+            "review": "nice architecture. a building with nice external architecture; major damages caused by the earthquake.\nAs expected, entry into tower was not allowed, due to lack of safety."
+        }, 
+        {
+            "index": 34, 
+            "rating": "5", 
+            "review": "Lots gone. You can really see the devastation from the earthquake here. Lots of beautiful temples and structures just ruined. But yet the people still smile."
+        }, 
+        {
+            "index": 35, 
+            "rating": "4", 
+            "review": "sorry for the lost. i visited the basantapur durbar square ..but its very sad to know about the lost made by the devasting earthquake. but its historical value is mesmerizing"
+        }, 
+        {
+            "index": 36, 
+            "rating": "5", 
+            "review": "The tower of History. This is a tower made in history but not sure after the earthquake how much of it is left to see. Great architecture. Authentic Nepalese it seems."
+        }, 
+        {
+            "index": 37, 
+            "rating": "5", 
+            "review": "Great Architecture. One should visit Basantapur Tower\nDurbar Square, Kathmandu, Nepal, Its an amazing Architecture and entire area is amazing"
+        }, 
+        {
+            "index": 38, 
+            "rating": "4", 
+            "review": "Nice Surrounded by other Temples. Very Nice place where actually can spend alsmot your 1-2 hours and roam around the place. One of the best and Heritage Site in Darbar Square. So many places got affected by Earthquake. Happy Travel..."
+        }, 
+        {
+            "index": 39, 
+            "rating": "5", 
+            "review": "Great Architectural Heritage. We visit this Historic UNESCO Heritage site before earth quack. Don't know how the place look like now. We still remember the great moment passing in this beautiful heritage place which have rich historic & architectural value."
+        }, 
+        {
+            "index": 40, 
+            "rating": "5", 
+            "review": "An amazing earthquake survivor. While some of the iconic structures of Durbar Square have been destroyed or badly damaged, the Basantapur Tower is still standing in all it's glory. It pretty much dominates the square and is a must inspect site. Stand for awhile and take in the fine detail of the timber carvings, the longer you look, the more you will see. For more information on Durbar Square, please see my separate review."
+        }, 
+        {
+            "index": 41, 
+            "rating": "5", 
+            "review": "The Viewing Tower of the Malla Kings of Kantipur!. Basantapur Tower in the ancient capital of Kantipur - the modern day Kathmandu was built by the Malla Kings. It is said that the King of Kantipur would go up to the top of the tower to look around Kathmandu city to check if every chimney in the city's household had smoke coming out. In case the King did not see any smoke, he would immediately send his people to check if there were any problems in the said home such as poverty and starvation due to lack of food and fuel !!"
+        }, 
+        {
+            "index": 42, 
+            "rating": "5", 
+            "review": "An 18th Century Tower at Kathmandu's historical center!. Good news! \"Basantapur Tower\" survived the terrible April 25, 2015 earthquake that devastated Nepal! The beautiful nine-storied tower, built in 1770, has suffered only minor damages and can still be seen at the entrance of \"Hanuman-Dhoka Durbar Square\". An admission fee of R$750,00 is charged on all visitors upon entry on the Unesco's appointed World Heritage Site of \"Hanuman-Dhoka Durbar Square Monument Zone\", with its lovely palaces, temples and shrines. Enjoy!"
+        }, 
+        {
+            "index": 43, 
+            "rating": "5", 
+            "review": "Pay attention to details. Details of ancient time are very unique. unfortunately, some of them have been damaged by earthquake, yet it is still a beautiful complex."
+        }, 
+        {
+            "index": 44, 
+            "rating": "4", 
+            "review": "A history to look through. It stands tall in the Kathmandu Darbar square, known as Basantapur. But it has been affected by recent earthquakes. Still visit this place will amaze you."
+        }, 
+        {
+            "index": 45, 
+            "rating": "4", 
+            "review": "Basantapur Tower in Kathmandu Durbar Square. Basantapur Tower is part of Kathmandu Durbar Square, a must visit location while in Kathmandu. Some damaged, but still plenty of things to see."
+        }, 
+        {
+            "index": 46, 
+            "rating": "5", 
+            "review": "wonderful tower. Amazing. I was lucky to see it before the quakes of 2015. and it was a wonderful sight I hope it can be restored back to its original beauty"
+        }, 
+        {
+            "index": 47, 
+            "rating": "5", 
+            "review": "A visit to Basantapur Tower. An amazing historic site. During our visit here, we have the opportunity to buy marvelous tea of various taste from a tea shop nearby."
+        }, 
+        {
+            "index": 48, 
+            "rating": "4", 
+            "review": "Foul smells are the only spoiler. In this compound hundreds of cows are slaughtered during the festivals in Kathmandu.And you can smell blood in the air."
+        }, 
+        {
+            "index": 49, 
+            "rating": "4", 
+            "review": "worth a trip!. Was lucky enough to go here four weeks before the disastrous earthquake. Great piece of Nepalese history."
+        }, 
+        {
+            "index": 50, 
+            "rating": "5", 
+            "review": "Traveler choice. i love to this place where we been many place , please don't forget to visit their when you came in Nepal"
+        }, 
+        {
+            "index": 51, 
+            "rating": "4", 
+            "review": "go for it.... like all the surroundings of Durbar square, beautiful... part of the nepalese history... worth to go..."
+        }, 
+        {
+            "index": 52, 
+            "rating": "5", 
+            "review": "Basantapur Tower. Amazing. I was very luckky to see it before the quakes of 2015.\nGreat experience amongst amazing people.\nI hope that it can be restored after the trouble."
+        }, 
+        {
+            "index": 53, 
+            "rating": "5", 
+            "review": "A great treasure of Nepal. This architectural masterpiece stood in Durbar Square. I understand it has been severely damaged. I am not sure if it is recoverable. A very sad time for Nepal and a loss to the world."
+        }, 
+        {
+            "index": 54, 
+            "rating": "5", 
+            "review": "Basantapur Tower. Sorry to report that this monument collapsed in the recent earthquakes and many people were killed. The area is safe but this monument is no more. It was a very sad day for Nepal and the country is doing fine and recovering. Things are safe now and people should come and visit for holidays but this place is totally destroyed. Sorry to say."
+        }, 
+        {
+            "index": 55, 
+            "rating": "4", 
+            "review": "beautiful.. footpaths to main road all full with peoples steps,a wonderful place to enjoy the smile of nepalese with warm greetings of historical monuments."
+        }, 
+        {
+            "index": 56, 
+            "rating": "5", 
+            "review": "The artistic Nautalle Durbar. Basantapur tower also known as Nautalle Durbar is beautiful. It looks artistic from outside and is a part of Hanumandhoka Museum. To enter this Basantapur tower, we should use a gate inside the museum. The architecture of the Nine storeyed palace is impressive. The woodwork seems pretty good."
+        }, 
+        {
+            "index": 57, 
+            "rating": "5", 
+            "review": "View of city . Constructed by First King of Modern Nepal, it is situated in a courtyard of Kathmandu Durbar Square.This was 9 storied palace but unfortunately the earthquake damaged top floors."
+        }, 
+        {
+            "index": 58, 
+            "rating": "4", 
+            "review": "Beautiful architecture. At the end of Durbar square, close to the Kumari Chowk, we can see this beautiful building. It tells us a lot about Nepali style of construction and is quite fascinating to look at."
+        }, 
+        {
+            "index": 59, 
+            "rating": "5", 
+            "review": "The Tower is gone. The stump of the tower, a site of many deaths, has become an iconic reminder of the Great Earthquake, and in fact at least one replica has been created out of paint cans and erected along the Ring Road outside of Patan. I had never felt the desire to go inside and see the view, being a bit afraid of heights and claustrophobic, but it had become a popular spot for young Nepalese to visit on a Saturday afternoon, just as many did on that fateful Saturday of April 25, 2015"
+        }, 
+        {
+            "index": 60, 
+            "rating": "5", 
+            "review": "Great View from the top. We visited Kathmandu in Feb / March 2014. The Basantapur Tower was located in the palace complex of the Kathmandu Durbar square.It had Nine floors and one had to climb the wooden stairs (more like ladders) leading to the top floor.The view from the windows of the Ninth floor was spectacular and was worth the climb!!!Enroute to the top floor, there was a splendid museum. Inconveniently, cameras and bags were not allowed in the museum!!I believe this tower was severely damaged during the earthquake."
+        }, 
+        {
+            "index": 61, 
+            "rating": "5", 
+            "review": "My favorite place in Durbar.. This nine floors tower have a diference atmosphere. When you walk up there you gonna feel like you journey to the ancient world. On top floor you can see almost all of the city."
+        }, 
+        {
+            "index": 62, 
+            "rating": "4", 
+            "review": "Great Basantapur Tower. Visited the Basantapur Tower on 2 January 2015 , arranged by Outshine Adventures ,with our knowledgeable guide Mr.Prasant.We regret that we didn't write a review sooner ,reading recent reviews here , said that the Tower already reduced to rubble, because of the 25 April 2015 Gorkha earthquake .Now our pictures are just beautiful memories of this magnificent and beautiful place.In our hearts ,we hoped that somehow , it can be rebuild to its original state..The location of the Basantapur Tower is on the South of Nasal Chowk, we managed to climb to the top level , the 9th level , and stunning view towards the Kathmandu Durbar Square.Beautiful architecture , with red bricks , wood and stone carvings , timber reinforced beams."
+        }, 
+        {
+            "index": 63, 
+            "rating": "5", 
+            "review": ":(. Pasan as it's spell is a beautiful beautiful place to visit before the quake or even after, there's just so much thing to see and to learn here. Yes, it's destroyed to bits, it's impossible to rebuild it back with how the origin is , but what left is the memory, the story and always the nepal people will always keep us reminded of this quake that has happened to them. Let's all together people and visitor all over the world, visit nepal, even more important now then later, to boost their tourism , and most importantly to show them that we care, they are not alone ,never alone, let's together restore the faith in humanity and the pride in what Nepalese believe in . Visit Nepal 2015 people"
+        }, 
+        {
+            "index": 64, 
+            "rating": "4", 
+            "review": "Great tower. By the time I am writing this review - it is damaged by earthquake. This was a great tower for a small country although coming from the county of CN tower - it doesn't mean anything for me but people were proud of it."
+        }, 
+        {
+            "index": 65, 
+            "rating": "5", 
+            "review": "A lost treasure. I hope it is rebuilt.Built in 1832 and rebuilt it has now been destroyed by the earthquake. Nothing left to like of the tower."
+        }, 
+        {
+            "index": 66, 
+            "rating": "4", 
+            "review": "Annoying guides. My trip to Basanthpur was fun because I was following my Lonely Planet guide. But the guides there are agressive, rude, and persistent. One kept following me around till i had to warn him, that if he didnt back off I will complain to the police!"
+        }, 
+        {
+            "index": 67, 
+            "rating": "4", 
+            "review": "Awesome views!. Yup, take the stairs to the top and you won't be disappointed. Lots of great viewing opportunities at each level."
+        }, 
+        {
+            "index": 68, 
+            "rating": "4", 
+            "review": "Nice structure . This is one of heritage site of Nepal in darbar square. The structure and architecture is really very nice.very close to Thamel and within walking distance. One of the main tourist attractions in Nepal."
+        }, 
+        {
+            "index": 69, 
+            "rating": "4", 
+            "review": "A Nice Structure. Basantpur Tower is at Durbar Sqare, Kathmandu near Thamel. The tower have intricately carved Doorways, Windows and struts.The tower is decorated with erotic Carving. The Tower was built by King Prithvi Narayan Shah. A Nice Tower."
+        }, 
+        {
+            "index": 70, 
+            "rating": "3", 
+            "review": "Just another overrated square. I mean it's nice, but its too touristy with many touts around trying to get you to pay an obnoxious entrance fee which you can easily avoid by walking round the local streets to get in at the back. I would say the local streets were more interesting."
+        }, 
+        {
+            "index": 71, 
+            "rating": "5", 
+            "review": "Beautiful structure, near to Thamel. Very historical structure and beautiful. It is near to Thamel. This is 10 minutes walking distance from the center of Thamel. The place is describe about the royal families of Nepal."
+        }, 
+        {
+            "index": 72, 
+            "rating": "5", 
+            "review": "Amazing tower. The tower is located in king palace. The construction is similar to Japan pagodas. The stairs are narrow so sometimes you have to wait a little bit. Beautiful view ftom the top of the tower."
+        }, 
+        {
+            "index": 73, 
+            "rating": "4", 
+            "review": "Near from Thamel. This historical old place is near by thamel with 20 minute walking distance. if you walk from thamel walk through Asan to see old hub and you can buy some old Nepali masala and know little more about Nepalese daily life."
+        }, 
+        {
+            "index": 74, 
+            "rating": "5", 
+            "review": "Beautiful structure. Located with the Kathmandu Durbar Square, Basantpur tower is a masterpiece. Your are spellbound by the amazing carvings that adorn the various levels of this structure.\nIt also houses a museum, which has various items relating to the Nepal Royal family on display."
+        }, 
+        {
+            "index": 75, 
+            "rating": "4", 
+            "review": "Great shopping place and great views. This was a good local market with some nice small restaurants and good food. We also did some shopping here. Got good stuff for reasonable prices."
+        }, 
+        {
+            "index": 76, 
+            "rating": "5", 
+            "review": "A Historical old Palace !!!. Brilliant old construction -- the palace where the kings of the Nepal Royal family used to reside, now a historical museum. A must see in Kathmandu."
+        }, 
+        {
+            "index": 77, 
+            "rating": "5", 
+            "review": "Very old very open.. Amazed they let you inside and climb this piece of History, well worth a look, unless you don't like heights"
+        }, 
+        {
+            "index": 78, 
+            "rating": "5", 
+            "review": "Wonderful antiquities. Came in here without really knowing of it. This really exemplifies the age old architecture in Nepal. After you have been here, everywhere you go you'll see evidence of this from the most distant village to the towns and cities throughout. I'm very glad this is preserved. It is truly humbling as you must understand that every inch of this was handmade and done when men were not given to frailty. There are few men alive today in the western world strong enough to duplicate any part of this."
+        }, 
+        {
+            "index": 79, 
+            "rating": "5", 
+            "review": "Historical. a nice medieval architecture. Lot of nepalese handicraft shops. Listed in world heritage site. Place is quite remarkable."
+        }, 
+        {
+            "index": 80, 
+            "rating": "4", 
+            "review": "Popular with locals. If you have some extra time on our hands, climbing the tower can be quite fun - and a good workout. the views from the top are some of the best in Kathmandu."
+        }, 
+        {
+            "index": 81, 
+            "rating": "4", 
+            "review": "A site to visit whilst on Durbar. This is a place well worth visiting whilst you are going through Durbar Square. I would even advise to start with this site, as te top gives yo ua magnificient view of Durbar Sqaure as a whole"
+        }, 
+        {
+            "index": 82, 
+            "rating": "5", 
+            "review": "Basantapur Tower. If you love adventure, than climb to the top. Its not suitable for claustrophobic and also not suitable for people with knee problems. Steps are steep and narrow. But worth the climb when you reach the top."
+        }, 
+        {
+            "index": 83, 
+            "rating": "4", 
+            "review": "Bhaktapur . The square as you walk in is huge and breathtaking. The various points of interest around the area are fun and interesting to explore. We especially enjoyed the pottery square where you see local artists making pottery. There are also a couple of thankha painting schools which are great to visit. We visited during the Teej festival and there were women in beautiful red sarees dancing around the area. The shopping was fun too, with better quality and better prices (after bargaining down)"
+        }, 
+        {
+            "index": 84, 
+            "rating": "5", 
+            "review": "Not recommend for people with problems with knees or legs. Don\u2019t forget climb to the top of tower while you are in Basantapur square. There is amazing view on each side of Kathmandu and on Durbar square from there. Not recommend for people with problems with knees or legs, because stairs are very steep and you can easily injured yourself. Now entrance fee is higher and include also entrance to the museum which is connected with Basantapur, and Basantapur tower."
+        }, 
+        {
+            "index": 85, 
+            "rating": "5", 
+            "review": "Lost in the crowd. The tower in Basantapur is lost amongst the various other buildings here. The surrounding areas had so many commercial buildings which posed a threat to this tower as they seemed to outshine this remaining proof of the lost era."
+        }, 
+        {
+            "index": 86, 
+            "rating": "4", 
+            "review": "basantapur durbar squire. basantapur is really nice and historical place since so long time and there are some really old building with so many different architect,when i went there i feel really different than other place in kathamndu it was great time."
+        }, 
+        {
+            "index": 87, 
+            "rating": "5", 
+            "review": "Step up back to history . While visiting museum, we also attended this tower. You will be rewarded with interesting views of the square beneath and special ancient atmosphere of that place"
+        }, 
+        {
+            "index": 88, 
+            "rating": "4", 
+            "review": "Nepal Wind. If someone is visiting in Nepal this is the place one should visit. One of the most relaxing places to stay. Howling just from the neighbouring country of Bangaldesh for a visit to Nepal it felt like the queen of the hills .The place is best for everyone to have rest and see the historical places nearby, it has many things to see around such as old temples, hill roads etc. relaxing soothing in the midst of the cool Nepal mountains."
+        }, 
+        {
+            "index": 89, 
+            "rating": "5", 
+            "review": "BASANTAPUR. it is best place for every one to have rest and see the historical place. there are so many things to see such as old temples, there is non restriction of age group. it is best place for every one to have rest and see the historical place. there are so many things to see such as old temples, there is non restriction of age group."
+        }, 
+        {
+            "index": 90, 
+            "rating": "5", 
+            "review": "Great view. This was a great place to visit, very relaxing and awesome views of Kathmandu and the Monkey temple in the distance. Entry to the tower is via Durbar square so you have to pay that entrance fee, which is quite steep, but it is worth it and to visit Kathmandu without coming to the tower would be a shame. It's also a great place for photos as this place is very old and gives you a good flavour of how Kathmandu was in antiquity. All in all a great place."
+        }, 
+        {
+            "index": 91, 
+            "rating": "5", 
+            "review": "Simply the best... One of my favorite center to take a cup of tea and a cigarette. It is about 1.2 km away from my resident. I usually walk to it for having a cup of tea and enjoy the beautiful historical monuments. There is also a museum. Near by is freak street."
+        }, 
+        {
+            "index": 92, 
+            "rating": "5", 
+            "review": "Impressive construction & great view from the top!. Access from inside the Durbar Museum, for which the fare of 250 nepali roupies is included in the Durbar Square fare of 750 roupies (prices increased on the 1st of Jan 2012!!!). From up there you can see in the 4 directions and look over the city."
+        }, 
+        {
+            "index": 93, 
+            "rating": "5", 
+            "review": "Great view of the tower from Freak street. Hike a minute down old Jochen for a great view of the tower. Close-up, marvel at the magnificent wood-carved doors, windows and balconies."
+        }, 
+        {
+            "index": 94, 
+            "rating": "2", 
+            "review": "nice. need some cleaniness is need. Proper lighting system is also needed but place is very nice one should visit there when you are in kathmandu because from where you can see old kathmandu local life styale"
+        }, 
+        {
+            "index": 95, 
+            "rating": "4", 
+            "review": "Ancient Carvings. I don't know if you can go into this tower or not, but I was amazed anyway because of all the hand carved wood work around the outside."
+        }
+    ]
+}

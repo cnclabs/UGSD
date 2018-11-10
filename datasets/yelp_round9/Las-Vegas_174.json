@@ -1,0 +1,23 @@
+{
+    "category": "Las-Vegas", 
+    "entity": "Margaritaville", 
+    "avg_rating_stars": 3.3333333333333335, 
+    "review_count": 3, 
+    "reviews": [
+        {
+            "index": 1, 
+            "rating": 4, 
+            "review": "Volcano nachos and tequila. Doesn't get much better to start the night. Good vibes and party fun."
+        }, 
+        {
+            "index": 2, 
+            "rating": 1, 
+            "review": "This review is for the gift shop/store & the Margaritaville corporation or whatever Jimmy Buffett wants to call his very over the top, overkill of Margaritaville products. I like Jimmy Buffett. I've been a Parrothead for years. I've traveled all over the states to catch his show. I love the Margaritaville products. Or I used to. \n\nThe last time H was in Vegas he dropped by Margaritaville to pick me up a present. He chose the insulated tumbler & the salesperson told him that it was \"guaranteed\" for life. It worked great for a couple months then started to leak. I finally got tired of looking like I drooled all over myself so I went online to find how to return/replace the product. I will tell you this: it is VERY hard finding the information regarding returns on the website. I finally located an address & mailed the tumbler asking for a replacement. 3 months have now passed and I have yet to hear from Margaritaville. No. Effin. Word. Nada. Nothing. Crickets. Needless to say I am very disappointed & disgusted w/the brand. \n\nWhen Jimmy Buffett opened Margaritaville & started coming out with merchandise I was soooooo excited. Now this \"dream\" of his has turned into a money-making machine that could care less about the quality of product they spew out. And they could care less about what the customers think. What a shame."
+        }, 
+        {
+            "index": 3, 
+            "rating": 5, 
+            "review": "My girlfriend's and I went to the \"5 o'clock Somewhere\"  bar on Cinco De Mayo 2016, the bartenders are fun and perform tricks while making drinks. The blended mango margarita was great, a little on the sweet side, yet exactly what you would expect. And tequila shots are only $11. This is definitely a bar I would revisit."
+        }
+    ]
+}
