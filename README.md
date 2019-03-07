@@ -4,6 +4,8 @@ The UGSD toolkit is a representation learning framework designed to generate dom
 
 In specific, the UGSD toolkit can generate sentiment dictionaries of different domains given the reviews and the associated ratings in a specific domain. Especially, the lexicons from the UGSD toolkit include not only sentiment words but also representations of them, which can be used in other advanced applications such as sentiment analysis or dictionary expansion.
 
+Please refer to [the slides](https://www.slideshare.net/ChunHsiangWang/ugsdaaai2019-122772010) to know the main concept of the paper.
+
 ### 1.1. Requirements
 - python2.7
 - Stanford CoreNLP
