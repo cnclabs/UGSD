@@ -231,16 +231,20 @@ $ python ConstructLexicon.py [--src_folder <string>] [--min_star <int>] [--max_s
 
 ## 3. Citation
 ```
-@inproceedings{,
-    author = {Wang, Chun-Hsiang and Fan, Kang-Chun and Wang, Chuan-Ju and Tsai, Ming-Feng},
+@inproceedings{WangUGSD,
+    author = {Chun-Hsiang Wang and
+              Kang-Chun Fan and
+              Chuan-Ju Wang and
+              Ming-Feng Tsai},
     title = {UGSD: User Generated Sentiment Dictionaries from Online Customer Reviews},
-    booktitle = {Thirty-Third AAAI Conference on Artificial Intelligence},
+    booktitle = {The Thirty-Third AAAI Conference on Artificial Intelligence, {AAAI}
+                 2019, Honolulu, Hawaii, USA, January 27 - February 1, 2019.},
+    pages = {313--320},
     year = {2019},
-    location = {Hawaii, USA},
-    pages = {},
-    numpages = {8},
-    url = {http://doi.acm.org/1},
-    keywords = {sentiment analysis, dictionary construction, user-generated content, representation learning, opinion mining},
-} 
+    crossref = {DBLP:conf/aaai/2019},
+    url = {https://aaai.org/ojs/index.php/AAAI/article/view/3800},
+    biburl = {https://dblp.org/rec/bib/conf/aaai/WangFWT19},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ```
 
