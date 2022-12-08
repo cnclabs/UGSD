@@ -1,4 +1,4 @@
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 corenlp-protobuf==3.8.0
 idna==2.6
